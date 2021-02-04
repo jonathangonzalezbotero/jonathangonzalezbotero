@@ -1,6 +1,6 @@
 ![JonathanGonzalezBotero](https://bannerlinkedin.s3-ap-southeast-2.amazonaws.com/Banner.png)
 ---
-### JonathanGonzalezBotero
+### Jonathan Gonzalez Botero
 Hi there, Let's have a look of my projects that I have worked in!
 
 ### 🔭 What I'm doing
