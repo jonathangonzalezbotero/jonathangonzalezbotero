@@ -1,12 +1,8 @@
-![JonathanGonzalezBotero](https://jonathangonzalezbotero.s3-ap-southeast-2.amazonaws.com/LinkedIn+Banner.png)
+![JonathanGonzalezBotero](https://jonathangonzalezbotero.s3.ap-southeast-2.amazonaws.com/Jonathan+Gonzalez+Banner.png)
 ---
-### Jonathan Gonzalez Botero | Full Stack Software Engineer
-Hi there, Let's have a look of my projects that I have worked in!
-
-### 🔭 What I'm doing
-Here you can find my side projects, the challenges that I'm taking part of and the projects of all the courses that I'm currently studying
+### Hey 👋 I am Jonathan
+I am a full stack software engineer based on the Gold Coast, Australia
 
 ### 📫 My social media
 * [Instagram](https://www.instagram.com/jonathangonzalezbotero)
 * [LinkedIn](https://www.linkedin.com/in/jonathangonzalezbotero/)
-* [Twitter](https://twitter.com/jonathan2138)
